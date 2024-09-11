@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Luqman Alattas
 - 👀 I’m interested in Learning languages, coding, gaming and pro wrestling.
-- 🌱 I’m currently learning ReactJS and Firebase.
+- 🌱 Doing work using ReactJS, NextJS, Typescript, TailWindCSS, Laravel, Firebase and some DevOps.
 - 📫 How to reach me: LuqmanAlattas92@Gmail.com
